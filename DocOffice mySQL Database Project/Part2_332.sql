@@ -75,7 +75,6 @@ INSERT INTO Patient VALUES
  ('0010', '5621234567', '1997-06-03', '0000000010');
 
 
-
 --
 -- Definition of table `doctor`
 --
