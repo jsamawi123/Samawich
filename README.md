@@ -1,2 +1,2 @@
 # Samawich
-Samawi sandwich. Current and past projects/assignments reside here. Includes C++, Arduino, Assembly, etc...
+### My highlighted programming projects from class assignments as well as research reside here.
