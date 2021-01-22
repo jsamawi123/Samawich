@@ -8,7 +8,7 @@
 #### Programming Language: ###
 - Python
 
-#### How to execute: ###f
+#### How to execute: ###
 In a Linux environment:
 
 1. Navigate to directory in terminal
