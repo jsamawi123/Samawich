@@ -1,0 +1,6 @@
+stack[0] | size = 16422 | first five numbers:   2192,  2836,  2424,   544,  4016
+stack[1] | size = 16617 | first five numbers:   1777,  3929,  2873,   129,  1637
+stack[2] | size = 16734 | first five numbers:   1402,  3238,   258,   686,  1026
+stack[3] | size = 16536 | first five numbers:   1015,   963,  1483,  3691,  3575
+
+Program completed successfully
